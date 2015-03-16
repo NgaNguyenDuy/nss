@@ -1,0 +1,25 @@
+{
+  "name": "nss",
+  "version": "1.0.0",
+  "description": "Expressjs using session with redis database.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NgaNguyenDuy/nss.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "session",
+    "redis-store"
+  ],
+  "author": "NgaNguyenDuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NgaNguyenDuy/nss/issues"
+  },
+  "homepage": "https://github.com/NgaNguyenDuy/nss"
+}
